@@ -1,0 +1,33 @@
+body {
+   background: black;
+   font-family: Arial, Helvetica, sans-serif;
+
+  
+} 
+
+.photos {
+   text-align: center;
+   margin: 10px;
+}
+.header {
+   color: white;
+  margin: 5%;
+
+}
+h2 {
+   font-size: 30px;
+   letter-spacing: 2px;
+}
+.logo{
+   color: white;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   margin-left: 5%
+
+}
+.logo-fabric {
+   text-align: center;
+
+}
+
+
